@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="Digital Humanities"
+       author="Noah Bennett"
+       banner="https://th.bing.com/th/id/R.004d0a247e2dc307e90e2becf4f53cea?rik=JXxa4FA2ARE1KQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-PqA0W74kYIo%2fUQfa9pvilJI%2fAAAAAAAAhmM%2fkv_zxczY9NI%2fs1600%2fWorld_Scotland_Aviemore_007809_.jpg&ehk=6hkMyReJlX6IwvzETnbkZjCGX%2bfIWLsLoQInjHvplGY%3d&risl=&pid=ImgRaw&r=0?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
