@@ -43,4 +43,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Edge: Funny Cat Hidden Image](https://www.hdwallpaper.nu/wp-content/uploads/2015/02/Funny-Cat-Hidden-1024x768.jpg)
