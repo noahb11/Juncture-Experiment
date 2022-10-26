@@ -16,20 +16,16 @@
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://www.hdwallpaper.nu/wp-content/uploads/2015/02/Funny-Cat-Hidden-1024x768.jpg">
-
 # Basic usage
 
 ## Image
 
-This is an image of a silly cat inside of a rolled up matl. The cat looks very adorable.[^1]
+This is a silly cat that I thought was quite adorable. The cat is inside of a rolled up mat, which makes him look quite cute.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Cat in Rolled Up Mat" 
+       description="Silly Cat" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://www.hdwallpaper.nu/wp-content/uploads/2015/02/Funny-Cat-Hidden-1024x768.jpg">
 
 ## Map
 
