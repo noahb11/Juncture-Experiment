@@ -27,10 +27,9 @@ This is a silly cat that I thought was quite adorable. The cat is inside of a ro
        license="public domain" 
        url="https://www.hdwallpaper.nu/wp-content/uploads/2015/02/Funny-Cat-Hidden-1024x768.jpg">
 
-## Map
+## Cool Background
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+The background is a picture of a mountaineous terrain. It appears to be either dusk or dawn, as there is a faint purple glow coming from along the horizon.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
